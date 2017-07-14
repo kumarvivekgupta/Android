@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Advanced</string>
+    <string-array name="Title">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+
+    </string-array>
+    <string-array name="Description">
+        <item>Title 1 description</item>
+        <item>Title 2 description</item>
+        <item>Title 3 description</item>
+        <item>Title 4 description</item>
+
+    </string-array>
+</resources>
