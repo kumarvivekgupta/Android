@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Butterknife practise</string>
+    <string-array name="cities">
+
+        <item>Lucknow</item>
+        <item>Jaipur</item>
+        <item>Ghaziabad</item>
+        <item>Lakhimpur-Kheri</item>
+        <item>Agra</item>
+        <item>Delhi</item>
+
+
+
+    </string-array>
+</resources>

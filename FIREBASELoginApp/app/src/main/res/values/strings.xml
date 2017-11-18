@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FIREBASE LoginApp</string>
+    <string name="EMAIL">E-MAIL</string>
+    <string name="Password">PASSWORD</string>
+    <string name="Button">FIRE UP</string>
+    <string name="Button2">LOGIN</string>
+    <string name="Button3">SIGNOUT</string>
+</resources>

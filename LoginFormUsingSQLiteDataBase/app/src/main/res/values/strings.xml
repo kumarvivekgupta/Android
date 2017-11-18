@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginFormUsingSQLiteDataBase</string>
+    <string name="UserName">USER NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="Button">SUBMIT</string>
+    <string name="View">VIEW ALL DETAILS</string>
+    <string name="Individual">INDIVIDUAL DETAILS</string>
+    <string name="Hint">Enter your id to view your details</string>
+    <string name="Update">UPDATE</string>
+    <string name="Delete">DELETE</string>
+</resources>

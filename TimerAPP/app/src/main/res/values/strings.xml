@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimerAPP</string>
+    <string name="Title">TIMER APPLICATION</string>
+    <string name="Ques">Enter Time In Seconds</string>
+    <string name="Start">START</string>
+    <string name="Total">TOTAL TIME :</string>
+    <string name="Left">TIME LEFT :</string>
+    <string name="Result">NOT DONE YET!!!!</string>
+    <string name="Dismiss">DISMISS</string>
+    <string name="Back">START AGAIN</string>
+</resources>
