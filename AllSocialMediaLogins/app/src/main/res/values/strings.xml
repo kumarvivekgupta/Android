@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">All SocialMedia Logins</string>
+
+    <string name="facebook_application_id" translatable="false">548284152175942</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb548284152175942</string>
+
+
+    <string name="twitter_consumer_key" translatable="false">jqGweaG4MBVhlczxCW394W49J</string>
+    <string name="twitter_consumer_secret" translatable="false">4BY2ihituQyx17nFv6BXR9wKFRjIqb6NmQlFTXzbgqXkNN1xVd</string>
+
+
+</resources>
